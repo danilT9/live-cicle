@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/live-cicle/static/css/main.2120509d.css",
+    "main.js": "/live-cicle/static/js/main.50c20434.js",
+    "static/js/453.7bbf1905.chunk.js": "/live-cicle/static/js/453.7bbf1905.chunk.js",
+    "index.html": "/live-cicle/index.html",
+    "main.2120509d.css.map": "/live-cicle/static/css/main.2120509d.css.map",
+    "main.50c20434.js.map": "/live-cicle/static/js/main.50c20434.js.map",
+    "453.7bbf1905.chunk.js.map": "/live-cicle/static/js/453.7bbf1905.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2120509d.css",
+    "static/js/main.50c20434.js"
+  ]
+}
