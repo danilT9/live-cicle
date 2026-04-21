@@ -1,0 +1,22 @@
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+label {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    padding: 6px;
+    margin: 5px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100%;
+}
